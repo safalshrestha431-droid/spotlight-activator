@@ -1,0 +1,9 @@
+coverage/
+.env.local
+build/
+.cache/
+yarn-error.log*
+.next/
+npm-debug.log*
+.env
+.DS_Store
